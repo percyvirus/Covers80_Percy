@@ -14,7 +14,7 @@ The `covers80_percy/` directory contains an extended version of the **covers80**
 ### File Structure:
 The `coversongs/` directory contains the audio files and related metadata for the dataset. However, this directory is **not included** in the GitHub repository due to file size limitations. To access the dataset, you can download it from the following Google Drive link:
 
-[Download coversongs from Google Drive](<ENLACE_DE_GOOGLE_DRIVE>)
+[Download coversongs from Google Drive](<https://drive.google.com/file/d/1uPbN65mrkqjgbjQn61K7dhHlJ_ngvK4R/view?usp=share_link>)
 
 Once you have downloaded and extracted the `coversongs` folder, you can use the following directory structure:
 
