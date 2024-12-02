@@ -1,4 +1,4 @@
-### README for `cover80_percy` Package
+### Cover80_Percy: An enhanced Covers80 dataset for music cover detection
 
 This is a dataset and code based on the **covers80** dataset, with several modifications and additions.
 
